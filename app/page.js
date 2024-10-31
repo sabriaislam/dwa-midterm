@@ -37,7 +37,7 @@ export default async function Home({ searchParams }) {
       <div className= {styles.intro}>
         <p>NASA's Astronomy Picture of the Day (APOD) captures the vast beauty of the stars, galaxies, and nebulae—distant wonders that remind us of both the scale and fragility of existence in the universe.</p>
         <br></br>
-        <p>Enter your birthday to see a dedicated APOD for you</p>
+        <p>Enter a date after 1995 to see a dedicated APOD for you.</p>
         <br></br>
         <h1>Select a date:</h1>
       </div>
