@@ -35,8 +35,19 @@ a {
   text-decoration: none;
 }
 
+h1 {
+  font-size: 24px;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
+}
+
+img{
+  display: block;
+  margin: 0 auto; 
+  max-width: 100%; 
+  height: auto;
 }
